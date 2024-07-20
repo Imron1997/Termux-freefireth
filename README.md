@@ -8,4 +8,4 @@
  chmod +x *
  
  bash install.sh
-    
+ bash games.sh   
